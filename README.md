@@ -210,7 +210,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 For support and questions:
 - **Email**: info@civicsense.org
-- **Website**: [civicsense.org](https://civicsenseproject-production.up.railway.app/)
+- **Website**: [[civicsense.org](https://civicsenseproject-production.up.railway.app/)](https://civicsenseproject-production.up.railway.app/)
 - **Documentation**: Check this README and inline code comments
 
 ## 🙏 Acknowledgments
@@ -226,4 +226,5 @@ For support and questions:
 **Made with ❤️ for a better society**
 
 *Building civic responsibility through technology and community engagement.*
+
 
