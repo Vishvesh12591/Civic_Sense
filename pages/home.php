@@ -151,21 +151,21 @@
             <div class="col-md-3">
                 <div class="mb-3">
                     <i class="fas fa-users fa-3x mb-3"></i>
-                    <h4>1000+</h4>
+                    <h4>100+</h4>
                     <p>Active Members</p>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="mb-3">
                     <i class="fas fa-exclamation-triangle fa-3x mb-3"></i>
-                    <h4>500+</h4>
+                    <h4>50+</h4>
                     <p>Issues Reported</p>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="mb-3">
                     <i class="fas fa-lightbulb fa-3x mb-3"></i>
-                    <h4>300+</h4>
+                    <h4>NO+</h4>
                     <p>Solutions Shared</p>
                 </div>
             </div>
@@ -179,3 +179,4 @@
         </div>
     </div>
 </section>
+
